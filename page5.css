@@ -1,9 +1,12 @@
 body {
-  background-color: rgb(117, 116, 116);
+  /* background-color: #F79256; */
+  background-color: #424B54;
 }
 
 h1 {
-  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: #F79256;
+  /* color: #1D4E89; */
   text-align: center;
   font-size: 40px;
   font-weight: bold;
