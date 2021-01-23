@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #E3B23C;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  text-decoration: none;
+  color: #465362;
+  font-weight: bold;
+}
+
+#navContainer {
+  background-color: #465362;
+  padding: 10px;
+}
+
+button {
+  background-color: #EBF2FA;
+  padding: 10px 15px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: .8;
+}
